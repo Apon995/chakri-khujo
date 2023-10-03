@@ -1,0 +1,254 @@
+[
+    {
+        "id": 1,
+        "logo": "log.png",
+        "job_title": "Software Engineer",
+        "company_name": "Google.com",
+        "remote": "Remote",
+        "location": "San Francisco, CA",
+        "job_type": "Full-time",
+        "job_category": "Information Technology",
+        "category_icon": "https://i.ibb.co/5GQnvCg/accounts.png",
+        "salary": "$90,000 - $110,000",
+        "job_description": "Join our team as a software engineer and work on cutting-edge projects...",
+        "job_responsibility": "Responsibilities include designing and developing software solutions...",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field",
+        "experiences": "3+ years of software development experience",
+        "contact_information": {
+            "phone": "123-456-7890",
+            "email": "hr@techsolutions.com",
+            "address": "123 Tech Street, San Francisco, CA"
+        }
+    },
+    {
+        "id": 2,
+        "logo": "company2_logo.png",
+        "job_title": "Marketing Manager",
+        "company_name": "Google.com",
+        "remote": "On-site",
+        "location": "New York, NY",
+        "job_type": "Full-time",
+        "job_category": "Marketing",
+        "category_icon": "https://i.ibb.co/NmVQWF4/marketing.png",
+        "salary": "$80,000 - $100,000",
+        "job_description": "We're looking for a talented marketing manager to lead our marketing team...",
+        "job_responsibility": "Responsibilities include developing marketing strategies and managing campaigns...",
+        "educational_requirements": "Bachelor's degree in Marketing or related field",
+        "experiences": "5+ years of marketing management experience",
+        "contact_information": {
+            "phone": "555-123-4567",
+            "email": "info@globalmarketingpro.com",
+            "address": "456 Marketing Avenue, New York, NY"
+        }
+    },
+    {
+        "id": 3,
+        "logo": "company3_logo.png",
+        "job_title": "Data Analyst",
+        "company_name": "Google.com",
+        "remote": "Remote",
+        "location": "Chicago, IL",
+        "job_type": "Contract",
+        "job_category": "Data Analytics",
+        "category_icon": "https://i.ibb.co/DPXgSST/chip.png",
+        "salary": "$60,000 - $80,000",
+        "job_description": "Join our team as a data analyst and help us uncover valuable insights from data...",
+        "job_responsibility": "Responsibilities include analyzing data, creating reports, and presenting findings...",
+        "educational_requirements": "Bachelor's degree in Data Science or related field",
+        "experiences": "2+ years of data analysis experience",
+        "contact_information": {
+            "phone": "777-555-1234",
+            "email": "contact@datainsights.com",
+            "address": "789 Data Drive, Chicago, IL"
+        }
+    },
+    {
+        "id": 4,
+        "logo": "company4_logo.png",
+        "job_title": "Graphic Designer",
+        "company_name": "Google.com",
+        "remote": "On-site",
+        "location": "Los Angeles, CA",
+        "job_type": "Full-time",
+        "job_category": "Design",
+        "category_icon": "https://i.ibb.co/r4jNmfT/creative.png",
+        "salary": "$50,000 - $70,000",
+        "job_description": "We're seeking a creative graphic designer to join our studio and bring ideas to life...",
+        "job_responsibility": "Responsibilities include creating visual assets, collaborating with teams, and meeting deadlines...",
+        "educational_requirements": "Bachelor's degree in Graphic Design or related field",
+        "experiences": "3+ years of graphic design experience",
+        "contact_information": {
+            "phone": "888-999-7777",
+            "email": "info@creativedesigns.com",
+            "address": "123 Design Lane, Los Angeles, CA"
+        }
+    },
+    {
+        "id": 5,
+        "logo": "company5_logo.png",
+        "job_title": "Financial Analyst",
+        "company_name": "Google.com",
+        "remote": "Remote",
+        "location": "Houston, TX",
+        "job_type": "Full-time",
+        "job_category": "Finance",
+        "category_icon": "finance_icon.png",
+        "salary": "$70,000 - $90,000",
+        "job_description": "Join our finance team as a financial analyst and help us make data-driven decisions...",
+        "job_responsibility": "Responsibilities include financial modeling, data analysis, and reporting...",
+        "educational_requirements": "Bachelor's degree in Finance or related field",
+        "experiences": "2+ years of financial analysis experience",
+        "contact_information": {
+            "phone": "555-666-7777",
+            "email": "careers@financeexperts.com",
+            "address": "456 Finance Road, Houston, TX"
+        }
+    },
+    {
+        "id": 6,
+        "logo": "company6_logo.png",
+        "job_title": "HR Manager",
+        "company_name": "Google.com",
+        "remote": "Remote",
+        "location": "Miami, FL",
+        "job_type": "Full-time",
+        "job_category": "Human Resources",
+        "category_icon": "hr_icon.png",
+        "salary": "$75,000 - $95,000",
+        "job_description": "We're looking for an experienced HR manager to lead our HR department...",
+        "job_responsibility": "Responsibilities include recruitment, employee relations, and HR strategy development...",
+        "educational_requirements": "Bachelor's degree in HR Management or related field",
+        "experiences": "5+ years of HR management experience",
+        "contact_information": {
+            "phone": "123-987-6543",
+            "email": "hrmanager@hrsolutions.com",
+            "address": "789 HR Lane, Miami, FL"
+        }
+    },
+    {
+        "id": 7,
+        "logo": "company7_logo.png",
+        "job_title": "Sales Representative",
+        "company_name": "Google.com",
+        "remote": "Remote",
+        "location": "Dallas, TX",
+        "job_type": "Full-time",
+        "job_category": "Sales",
+        "category_icon": "sales_icon.png",
+        "salary": "$60,000 - $80,000",
+        "job_description": "Join our sales team and help us drive revenue and growth...",
+        "job_responsibility": "Responsibilities include prospecting, client meetings, and achieving sales targets...",
+        "educational_requirements": "Bachelor's degree in Business or related field",
+        "experiences": "2+ years of sales experience",
+        "contact_information": {
+            "phone": "555-123-4567",
+            "email": "sales@salesmasters.com",
+            "address": "456 Sales Street, Dallas, TX"
+        }
+    },
+    {
+        "id": 8,
+        "logo": "company8_logo.png",
+        "job_title": "Nurse Practitioner",
+        "company_name": "Google.com",
+        "remote": "On-site",
+        "location": "Boston, MA",
+        "job_type": "Full-time",
+        "job_category": "Healthcare",
+        "category_icon": "healthcare_icon.png",
+        "salary": "$80,000 - $100,000",
+        "job_description": "We're hiring a nurse practitioner to provide high-quality healthcare services...",
+        "job_responsibility": "Responsibilities include patient care, health assessments, and treatment planning...",
+        "educational_requirements": "Master's degree in Nursing and valid NP license",
+        "experiences": "2+ years of nurse practitioner experience",
+        "contact_information": {
+            "phone": "888-555-7890",
+            "email": "careers@healthcareplusclinic.com",
+            "address": "123 Healthcare Avenue, Boston, MA"
+        }
+    },
+    {
+        "id": 9,
+        "logo": "company9_logo.png",
+        "job_title": "Product Manager",
+        "company_name": "Google.com",
+        "remote": "Remote",
+        "location": "Seattle, WA",
+        "job_type": "Full-time",
+        "job_category": "Product Management",
+        "category_icon": "product_icon.png",
+        "salary": "$100,000 - $120,000",
+        "job_description": "We're seeking a product manager to lead the development of innovative products...",
+        "job_responsibility": "Responsibilities include product roadmap planning, market research, and team leadership...",
+        "educational_requirements": "Bachelor's degree in Business or related field",
+        "experiences": "5+ years of product management experience",
+        "contact_information": {
+            "phone": "555-999-8888",
+            "email": "info@innovationlabs.com",
+            "address": "789 Innovation Drive, Seattle, WA"
+        }
+    },
+    {
+        "id": 10,
+        "logo": "company10_logo.png",
+        "job_title": "Customer Support Specialist",
+        "company_name": "Google.com",
+        "remote": "Remote",
+        "location": "Denver, CO",
+        "job_type": "Full-time",
+        "job_category": "Customer Support",
+        "category_icon": "customersupport_icon.png",
+        "salary": "$45,000 - $60,000",
+        "job_description": "Join our customer support team and provide exceptional service to our clients...",
+        "job_responsibility": "Responsibilities include resolving customer inquiries, troubleshooting, and ensuring customer satisfaction...",
+        "educational_requirements": "High school diploma or equivalent",
+        "experiences": "1+ year of customer support experience",
+        "contact_information": {
+            "phone": "123-456-7890",
+            "email": "support@customercare.com",
+            "address": "456 Support Avenue, Denver, CO"
+        }
+    },
+    {
+        "id": 11,
+        "logo": "company11_logo.png",
+        "job_title": "Accountant",
+        "company_name": "Google.com",
+        "remote": "On-site",
+        "location": "Phoenix, AZ",
+        "job_type": "Full-time",
+        "job_category": "Finance",
+        "category_icon": "finance_icon.png",
+        "salary": "$60,000 - $75,000",
+        "job_description": "We're looking for an accountant to manage financial records and budgets...",
+        "job_responsibility": "Responsibilities include financial reporting, tax preparation, and financial analysis...",
+        "educational_requirements": "Bachelor's degree in Accounting or related field",
+        "experiences": "3+ years of accounting experience",
+        "contact_information": {
+            "phone": "555-888-7777",
+            "email": "accounting@financialexperts.com",
+            "address": "123 Finance Lane, Phoenix, AZ"
+        }
+    },
+    {
+        "id": 12,
+        "logo": "company12_logo.png",
+        "job_title": "Content Writer",
+        "company_name": "Google.com",
+        "remote": "Remote",
+        "location": "Austin, TX",
+        "job_type": "Freelance",
+        "job_category": "Writing",
+        "category_icon": "writing_icon.png",
+        "salary": "$30 - $50 per hour",
+        "job_description": "We're seeking talented content writers to create engaging and informative content...",
+        "job_responsibility": "Responsibilities include researching topics, writing articles, and meeting deadlines...",
+        "educational_requirements": "Bachelor's degree in English, Journalism, or related field (preferred)",
+        "experiences": "1+ year of content writing experience",
+        "contact_information": {
+            "phone": "555-123-7890",
+            "email": "content@creativecreators.com",
+            "address": "456 Content Street, Austin, TX"
+        }
+    }
+]
